@@ -1,0 +1,384 @@
+---
+title: "Sobre a Disciplina"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+##
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Sobre mim
+
+Faxineiro de dados. Doutor em Estatística pelo IME-USP. Professor Auxiliar de Ciência de Dados no Insper. Diretor-Técnico da Associação Brasileira de Jurimetria (ABJ). Trabalho com web scraping, arrumação de dados, inteligência artificial, processamento de linguagem natural, visualização de dados e dashboards.
+
+<https://jtrecenti.com/cv>
+
+:::
+
+::: {.column width="50%"}
+
+### Sobre vocês
+
+![](img/qrcode_questionario.png)
+
+:::
+
+::::
+
+## Caso: Barragem
+
+![](img/barragem.jpeg)
+
+## Pergunta
+
+### Qual é o valor de acordo a ser negociado na parte de danos morais?
+
+## Operacionalização
+
+> Um valor de acordo razoável é aquele que não é exorbitante nem irrisório em discussões similares no STJ
+
+::: {.fragment}
+
+### Súmula 7. A pretensão de simples reexame de prova não enseja recurso especial.
+
+> O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em recurso especial quando **irrisório** ou **exorbitante**
+
+:::
+
+## Resultado
+
+![](img/stj.png){width=100%, fig-align="center"}
+
+## Metodologia
+
+Para chegar a esse resultado, precisamos:
+
+- Planejar uma **amostra** para coletar dados da jurisprudência do STJ
+- Calcular as **estatísticas** de posição e variabilidade (média, mediana, desvio padrão)
+- Estimar a **probabilidade** de um valor ser considerado exorbitante ou irrisório
+- Criar **visualizações** de dados sofisticadas e reprodutíveis
+- Conduzir uma análise de **regressão** para associar os valores às características dos processos
+
+. . .
+
+O foco do nosso curso é **desenvolver essas habilidades**.
+
+# O curso
+
+## Objetivos de aprendizagem
+
+- Compreender dados jurídicos **sob a ótica estatística**
+- Aplicar **técnicas de amostragem** adequados para análise de processos
+- Aplicar modelos de **estatística inferencial** em problemas jurídicos
+- Utilizar a **linguagem python** para elaboração de estudos reprodutíveis
+- Aplicar os conceitos aprendidos para desenvolver uma **solução tecnológica** para o Direito
+
+## Desejo
+
+Queremos que vocês sejam capazes de identificar, ao longo da carreira de vocês, situações onde a utilização da ciência de dados é **útil** ou **necessária**.
+
+Uma parte de vocês desenvolverá projetos ou produtos completamente baseados em dados. Outra parte irá utilizar os conceitos para **avaliar** e **criticar** projetos e produtos. Outra parte liderará equipes interdisciplinares que envolvem cientistas de dados.
+
+De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum momento da carreira de vocês.
+
+
+## Agenda do curso por semana
+
+::: {.panel-tabset}
+
+### 05/02
+
+#### **Aula**: 05/02/2024
+
+- Apresentação da disciplina e discussão sobre o uso de dados no Direito
+
+#### **Aula**: 09/02/2024
+
+**Case**: Câmaras criminais
+
+- Revisão: Variáveis Categóricas e Numéricas. Variáveis Binárias, Ordinais; Discretas e Contínuas.
+- Revisão: Proporções, porcentagens, razões e taxas, distribuição de frequência, classificações percentis
+
+**Desafio 1**
+
+### 12/02
+
+**Case**: Câmaras criminais
+
+#### **Feriado**: 12/02/2024
+
+-
+
+#### **Aula**: 16/02/2024
+
+- Exemplo de aplicação do GPT-4-Turbo, grupos e discussão APS
+
+### 19/02
+
+**Case**: Litigiosidade
+
+#### **Aula**: 19/02/2024
+
+- Revisão: média, moda, mediana, desvio padrão. Variação interquartil. Levin & Fox 11a ed pp. 77-91; 97-109.
+
+#### **Aula**: 23/02/2024
+
+- Revisão: média, moda, mediana, desvio padrão. Variação interquartil, continuação. Levin & Fox 11a ed pp. 77-91; 97-109.
+
+### 26/02
+
+**Case**: Datajud
+
+**Desafio 2**.
+
+#### **Aula**: 26/02/2024
+
+- Visualizações com a biblioteca `seaborn`.
+
+#### **Aula**: 01/03/2024
+
+- Visualizações com a biblioteca `seaborn`.
+
+**Desafio 3**.
+
+### 04/03
+
+**Case**: Insolvência
+
+#### **Aula**: 04/03/2024
+
+- Amostras e populações. Levin & Fox 11a ed pp. 154-181.
+
+#### **Aula**: 08/03/2024
+
+- Amostras e populações. Levin & Fox 11a ed pp. 154-181.
+
+**Desafio 4**.
+
+### 11/03
+
+**Case**: Viés de seleção
+
+#### **Aula**: 11/03/2024
+
+- Probabilidade e curva normal. Levin & Fox 11a ed pp. 122-148.
+
+#### **Provas Intermediárias**: 15/03/2024
+
+-
+
+### 18/03
+
+#### **Provas Intermediárias**: 18/03/2024
+
+-
+
+#### **Sem aulas**: 22/03/2024
+
+-
+
+### 25/03
+
+**Case**: Viés de seleção
+
+#### **Aula**: 25/03/2024
+
+- Probabilidade e curva normal. Levin & Fox 11a ed pp. 122-148.
+
+**Desafio 5**.
+
+#### **Feriado**: 29/03/2024
+
+-
+
+### 01/04
+
+**Case**: Natjus
+
+#### **Aula**: 01/04/2024
+
+- Teste de diferença/teste de hipótese. Levin & Fox 11a ed pp. 188-221.
+
+#### **Aulas**: 02/04/2024, 9h45-11h45 e 04/04/2024, 15h45-17h45
+
+- Apresentações APS
+
+#### **Aula**: 05/04/2024
+
+- Teste de diferença/teste de hipótese. Levin & Fox 11a ed pp. 188-221.
+
+**Desafio 6**.
+
+### 08/04
+
+**Case**: Litigiosidade
+
+#### **Aula**: 08/04/2024
+
+- Correlação. Levin & Fox 11a ed pp. 300-319. Regressão. Levin & Fox 11a ed pp. 325-337.
+
+#### **Aula**: 12/04/2024
+
+- Correlação. Levin & Fox 11a ed pp. 300-319. Regressão. Levin & Fox 11a ed pp. 325-337.
+
+**Desafio 7**.
+
+### 15/04
+
+**Case**: Google
+
+#### **Aula**: 15/04/2024
+
+- Regressão. Levin & Fox 11a ed pp. 325-337.
+
+#### **Aula**: 19/04/2024
+
+- Regressão. Levin & Fox 11a ed pp. 325-337.
+
+**Desafio 8**.
+
+### 22/04
+
+**Case**: Todos
+
+#### **Aula**: 22/04/2024
+
+- Revisão dos conceitos trabalhados no curso
+
+#### **Aula do Guilherme**: 26/04/2024
+
+-
+
+### 29/04
+
+#### **Aula do Guilherme**: 29/04/2024
+
+-
+
+#### **Provas finais**: 03/05/2024
+
+-
+
+### 06/05
+
+#### **Provas finais**: 06/05/2024
+
+-
+
+#### **Sem aulas**: 10/05/2024
+
+-
+
+### 13/05
+
+#### **Início das clínicas!** 13/05/2024
+
+:::
+
+## Desafios
+
+Teremos 8 desafios no total, todos a serem desenvolvidos no Praire Learn.
+
+A avaliação será automática, da mesma forma que na disciplina anterior.
+
+### Notas dos desafios
+
+```{python}
+#| out-width: 100%
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+
+# create a bar chart x axis: Desafio 1, 2, ..., 8
+# and y axis (%): 10, 15, 15, 10, 10, 15, 15, 10
+
+df = pd.DataFrame({
+    "Desafio": np.arange(1, 9),
+    "Nota (%)": [10, 15, 15, 10, 10, 10, 15, 15]
+})
+
+sns.barplot(x="Desafio", y="Nota (%)", data=df, palette="Blues_d", hue="Nota (%)", dodge=False)
+```
+
+
+```{python}
+import pandas as pd
+da = pd.read_parquet('https://github.com/c-eoe/tjspCrim/releases/download/parquet/da_camaras.parquet')
+```
+
+## Dinâmica
+
+Teremos 2 aulas por case.
+
+- A primeira aula serve para discutir o case e apresentar os conteúdos do curso relacionados.
+
+- A segunda aula servirá para rever os conceitos e resolver um desafio final.
+
+
+### Exercícios
+
+- Temos uma lista de exercícios para cada semana, baseada no conteúdo da aula.
+
+- Os exercícios **não são obrigatórios** O objetivo dos exercícios é **gerar dúvidas**.
+
+## APS
+
+::: {.panel-tabset}
+
+### Estrutura
+
+- Grupos de 7-8 alunos
+- Desenvolver uma proposta de **produto de ciência de dados jurídicos** para uso por um escritório de advocacia.
+- Preencher uma planilha com os nomes dos integrantes.
+- Entregas:
+  - **apresentação**: pitch de 5 minutos por uma pessoa sorteada
+  - **relatório** com até 1500 palavras com a proposta
+
+### Proposta
+
+A proposta deve conter:
+
+1) a definição do problema, validada por no mínimo 2 entrevistas com atuantes no mercado,
+
+2) a definição da solução, validada por no mínimo 2 (outras) entrevistas com pessoas atuantes no mercado
+
+3) a descrição da sustentabilidade financeira do produto, levando em consideração custos de desenvolvimento e manutenção e possíveis receitas.
+
+### Avaliação
+
+1) **documento** submetido pelo Blackboard **até 15/04**, contendo no máximo 1500 palavras. A transcrição das entrevistas deve constar em anexo e não é computada para o limite de palavras.
+
+2) **pitch** de 5 minutos feito em aula nos dias **02/04** e **03/04** e as respostas dadas pelo grupo a perguntas, críticas e provocações feitas por uma banca.
+
+:::
+
+## Avaliação final
+
+- Prova Intermediária: 15%
+- Prova Final: 35%
+- APS: 25%
+- Desafios: 25%
+
+### Atendimentos
+
+> 5a feira, das 7h45 às 9h15
+
+## Referências
+
+- [Levin & Fox 11 ed](https://www.amazon.com.br/Estat%C3%ADstica-para-ci%C3%AAncias-humanas-Levin/dp/8581430813)
+
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+- [Introdução à Jurimetria (em construção)](https://livro.abj.org.br)
+
