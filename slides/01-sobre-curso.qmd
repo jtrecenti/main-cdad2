@@ -104,8 +104,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 #### **Aula**: 09/02/2024
 
-**Case**: Câmaras criminais
-
 - Revisão: Variáveis Categóricas e Numéricas. Variáveis Binárias, Ordinais; Discretas e Contínuas.
 - Revisão: Proporções, porcentagens, razões e taxas, distribuição de frequência, classificações percentis
 
@@ -113,19 +111,15 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 ### 12/02
 
-**Case**: Câmaras criminais
-
 #### **Feriado**: 12/02/2024
 
 -
 
 #### **Aula**: 16/02/2024
 
-- Exemplo de aplicação do GPT-4-Turbo, grupos e discussão APS
+- Exemplo de aplicação, grupos e discussão APS
 
 ### 19/02
-
-**Case**: Litigiosidade
 
 #### **Aula**: 19/02/2024
 
@@ -136,8 +130,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 - Revisão: média, moda, mediana, desvio padrão. Variação interquartil, continuação. Levin & Fox 11a ed pp. 77-91; 97-109.
 
 ### 26/02
-
-**Case**: Datajud
 
 **Desafio 2**.
 
@@ -152,8 +144,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 **Desafio 3**.
 
 ### 04/03
-
-**Case**: Insolvência
 
 #### **Aula**: 04/03/2024
 
@@ -189,8 +179,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 ### 25/03
 
-**Case**: Viés de seleção
-
 #### **Aula**: 25/03/2024
 
 - Probabilidade e curva normal. Levin & Fox 11a ed pp. 122-148.
@@ -202,8 +190,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 -
 
 ### 01/04
-
-**Case**: Natjus
 
 #### **Aula**: 01/04/2024
 
@@ -234,8 +220,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 **Desafio 7**.
 
 ### 15/04
-
-**Case**: Google
 
 #### **Aula**: 15/04/2024
 
@@ -287,9 +271,13 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 ## Desafios
 
-Teremos 8 desafios no total, todos a serem desenvolvidos no Praire Learn.
+Teremos 6 desafios no total, todos a serem desenvolvidos no Prairie Learn.
 
 A avaliação será automática, da mesma forma que na disciplina anterior.
+
+Acesso ao **Prairie Learn**:
+
+![](img/prairielearn.png){width=100%, fig-align="center"}
 
 ### Notas dos desafios
 
@@ -304,8 +292,8 @@ import seaborn as sns
 # and y axis (%): 10, 15, 15, 10, 10, 15, 15, 10
 
 df = pd.DataFrame({
-    "Desafio": np.arange(1, 9),
-    "Nota (%)": [10, 15, 15, 10, 10, 10, 15, 15]
+    "Desafio": np.arange(1, 7),
+    "Nota (%)": [15, 20, 15, 15, 15, 20]
 })
 
 sns.barplot(x="Desafio", y="Nota (%)", data=df, palette="Blues_d", hue="Nota (%)", dodge=False)
@@ -317,18 +305,10 @@ import pandas as pd
 da = pd.read_parquet('https://github.com/c-eoe/tjspCrim/releases/download/parquet/da_camaras.parquet')
 ```
 
-## Dinâmica
-
-Teremos 2 aulas por case.
-
-- A primeira aula serve para discutir o case e apresentar os conteúdos do curso relacionados.
-
-- A segunda aula servirá para rever os conceitos e resolver um desafio final.
-
 
 ### Exercícios
 
-- Temos uma lista de exercícios para cada semana, baseada no conteúdo da aula.
+- Temos uma lista de exercícios para cada tópico, baseada no conteúdo da aula.
 
 - Os exercícios **não são obrigatórios** O objetivo dos exercícios é **gerar dúvidas**.
 
@@ -344,6 +324,13 @@ Teremos 2 aulas por case.
 - Entregas:
   - **apresentação**: pitch de 5 minutos por uma pessoa sorteada
   - **relatório** com até 1500 palavras com a proposta
+
+
+## Participação
+
+- Ao longo das aulas, faremos pequenas dinâmicas para participação dos alunos.
+- Os alunos que participarem das dinâmicas ganharão o ponto de participação na média final.
+- Para anotar o nome de vocês, precisarei das plaquinhas, pelo menos nas primeiras aulas.
 
 ### Proposta
 
@@ -367,12 +354,15 @@ A proposta deve conter:
 
 - Prova Intermediária: 15%
 - Prova Final: 35%
-- APS: 25%
-- Desafios: 25%
+- APS: 20%
+- Desafios: 20%
+- Participação: 10%
 
 ### Atendimentos
 
-> 5a feira, das 7h45 às 9h15
+> 5a feira, das 18h às 19h30
+
+Obs: podemos aproveitar os atendimentos para fazer workshops! O primeiro será sobre o uso da API do GPT-4-Turbo, que ocorrerá no dia 22/02. Agendem!
 
 ## Referências
 

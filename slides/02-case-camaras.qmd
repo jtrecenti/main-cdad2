@@ -1,0 +1,22 @@
+---
+title: "Case: Câmaras Criminais"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+## Case: Câmaras Criminais
+
+![](https://abj.org.br/img/pesquisas/camaras.png)
+
+## O que explica?
+
+![](img/camaras_qrcode.png){width=50%}
+
+<https://forms.office.com/r/DHnAehfNPM>
