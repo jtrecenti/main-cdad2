@@ -31,9 +31,21 @@ identificar oportunidades de negócio.
 
 ### Apostilas
 
-| arquivo                                               | link                                                                                                 |
-|:------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
-| apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb | [link](https://jtrecenti.github.io/main-cdad2/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb) |
+| arquivo                                               | link                                                                                                            |
+|:------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb) |
+
+### Desafios
+
+| arquivo                   | link                                                                                |
+|:--------------------------|:------------------------------------------------------------------------------------|
+| desafios/01-desafio.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/desafios/01-desafio.ipynb) |
+
+### Homeworks
+
+| arquivo                     | link                                                                                  |
+|:----------------------------|:--------------------------------------------------------------------------------------|
+| homeworks/01-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/01-homework.ipynb) |
 
 ## Licença
 

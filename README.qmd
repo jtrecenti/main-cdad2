@@ -24,8 +24,22 @@ slides <- fs::dir_ls("slides", regexp = "html$") |>
 apostilas <- fs::dir_ls("apostilas", regexp = "ipynb$", recurse = TRUE) |>
   tibble::enframe("arquivo", "link") |>
   dplyr::mutate(
-    link = paste0("[link](https://jtrecenti.github.io/main-cdad2/", link, ")")
+    link = paste0("[link](https://github.com/jtrecenti/main-cdad2/tree/main/", link, ")")
   )
+
+desafios <- fs::dir_ls("desafios", regexp = "ipynb$", recurse = TRUE) |>
+  tibble::enframe("arquivo", "link") |>
+  dplyr::mutate(
+    link = paste0("[link](https://github.com/jtrecenti/main-cdad2/tree/main/", link, ")")
+  )
+
+homework <- fs::dir_ls("homeworks", regexp = "ipynb$", recurse = TRUE) |>
+  tibble::enframe("arquivo", "link") |>
+  dplyr::mutate(
+    link = paste0("[link](https://github.com/jtrecenti/main-cdad2/tree/main/", link, ")")
+  )
+
+
 ```
 
 ### Slides
@@ -41,6 +55,23 @@ knitr::kable(slides)
 knitr::kable(apostilas)
 
 ```
+
+### Desafios
+
+```{r}
+
+knitr::kable(desafios)
+
+```
+
+### Homeworks
+
+```{r}
+
+knitr::kable(homework)
+
+```
+
 
 ## Licença
 
