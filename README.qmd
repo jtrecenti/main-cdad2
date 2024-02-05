@@ -56,14 +56,6 @@ knitr::kable(apostilas)
 
 ```
 
-### Desafios
-
-```{r}
-
-knitr::kable(desafios)
-
-```
-
 ### Homeworks
 
 ```{r}
