@@ -304,11 +304,11 @@ da = pd.read_parquet('https://github.com/c-eoe/tjspCrim/releases/download/parque
 ```
 
 
-### Exercícios
+## Homeworks
 
-- Temos uma lista de exercícios para cada tópico, baseada no conteúdo da aula.
+- Temos uma lista de exercícios (homeworks) para cada tópico, baseada no conteúdo da aula.
 
-- Os exercícios **não são obrigatórios** O objetivo dos exercícios é **gerar dúvidas**.
+- Os exercícios **não são obrigatórios** O objetivo é **gerar dúvidas**.
 
 ## APS
 
