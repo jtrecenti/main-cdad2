@@ -107,8 +107,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 - Revisão: Variáveis Categóricas e Numéricas. Variáveis Binárias, Ordinais; Discretas e Contínuas.
 - Revisão: Proporções, porcentagens, razões e taxas, distribuição de frequência, classificações percentis
 
-**Desafio 1**
-
 ### 12/02
 
 #### **Feriado**: 12/02/2024
@@ -118,6 +116,8 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 #### **Aula**: 16/02/2024
 
 - Exemplo de aplicação, grupos e discussão APS
+
+**Desafio 1**
 
 ### 19/02
 
@@ -141,7 +141,7 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Visualizações com a biblioteca `seaborn`.
 
-**Desafio 3**.
+**Desafio 2**.
 
 ### 04/03
 
@@ -153,8 +153,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Amostras e populações. Levin & Fox 11a ed pp. 154-181.
 
-**Desafio 4**.
-
 ### 11/03
 
 **Case**: Viés de seleção
@@ -162,6 +160,8 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 #### **Aula**: 11/03/2024
 
 - Probabilidade e curva normal. Levin & Fox 11a ed pp. 122-148.
+
+**Desafio 3**.
 
 #### **Provas Intermediárias**: 15/03/2024
 
@@ -183,8 +183,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Probabilidade e curva normal. Levin & Fox 11a ed pp. 122-148.
 
-**Desafio 5**.
-
 #### **Feriado**: 29/03/2024
 
 -
@@ -203,7 +201,7 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Teste de diferença/teste de hipótese. Levin & Fox 11a ed pp. 188-221.
 
-**Desafio 6**.
+**Desafio 4**.
 
 ### 08/04
 
@@ -217,7 +215,7 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Correlação. Levin & Fox 11a ed pp. 300-319. Regressão. Levin & Fox 11a ed pp. 325-337.
 
-**Desafio 7**.
+**Desafio 5**.
 
 ### 15/04
 
@@ -229,8 +227,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Regressão. Levin & Fox 11a ed pp. 325-337.
 
-**Desafio 8**.
-
 ### 22/04
 
 **Case**: Todos
@@ -238,6 +234,8 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 #### **Aula**: 22/04/2024
 
 - Revisão dos conceitos trabalhados no curso
+
+**Desafio 6**
 
 #### **Aula do Guilherme**: 26/04/2024
 
@@ -279,7 +277,7 @@ Acesso ao **Prairie Learn**:
 
 ![](img/prairielearn.png){width=100%, fig-align="center"}
 
-### Notas dos desafios
+## Notas dos desafios
 
 ```{python}
 #| out-width: 100%
@@ -318,19 +316,12 @@ da = pd.read_parquet('https://github.com/c-eoe/tjspCrim/releases/download/parque
 
 ### Estrutura
 
-- Grupos de 7-8 alunos
+- Grupos de 5-6 alunos
 - Desenvolver uma proposta de **produto de ciência de dados jurídicos** para uso por um escritório de advocacia.
 - Preencher uma planilha com os nomes dos integrantes.
 - Entregas:
   - **apresentação**: pitch de 5 minutos por uma pessoa sorteada
   - **relatório** com até 1500 palavras com a proposta
-
-
-## Participação
-
-- Ao longo das aulas, faremos pequenas dinâmicas para participação dos alunos.
-- Os alunos que participarem das dinâmicas ganharão o ponto de participação na média final.
-- Para anotar o nome de vocês, precisarei das plaquinhas, pelo menos nas primeiras aulas.
 
 ### Proposta
 
@@ -346,9 +337,16 @@ A proposta deve conter:
 
 1) **documento** submetido pelo Blackboard **até 15/04**, contendo no máximo 1500 palavras. A transcrição das entrevistas deve constar em anexo e não é computada para o limite de palavras.
 
-2) **pitch** de 5 minutos feito em aula nos dias **02/04** e **03/04** e as respostas dadas pelo grupo a perguntas, críticas e provocações feitas por uma banca.
+2) **pitch** de 5 minutos feito em aula nos dias **02/04** e **04/04** e as respostas dadas pelo grupo a perguntas, críticas e provocações feitas por uma banca.
 
 :::
+
+## Participação
+
+- Ao longo das aulas, faremos pequenas dinâmicas para participação dos alunos.
+- Os alunos que participarem das dinâmicas ganharão o ponto de participação na média final.
+- Para anotar o nome de vocês, precisarei das plaquinhas, pelo menos nas primeiras aulas.
+
 
 ## Avaliação final
 
@@ -358,7 +356,7 @@ A proposta deve conter:
 - Desafios: 20%
 - Participação: 10%
 
-### Atendimentos
+## Atendimentos
 
 > 5a feira, das 18h às 19h30
 
