@@ -117,21 +117,19 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Exemplo de aplicação, grupos e discussão APS
 
-**Desafio 1**
-
 ### 19/02
 
 #### **Aula**: 19/02/2024
 
 - Revisão: média, moda, mediana, desvio padrão. Variação interquartil. Levin & Fox 11a ed pp. 77-91; 97-109.
 
+**Desafio 1**
+
 #### **Aula**: 23/02/2024
 
 - Revisão: média, moda, mediana, desvio padrão. Variação interquartil, continuação. Levin & Fox 11a ed pp. 77-91; 97-109.
 
 ### 26/02
-
-**Desafio 2**.
 
 #### **Aula**: 26/02/2024
 
@@ -229,8 +227,6 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 ### 22/04
 
-**Case**: Todos
-
 #### **Aula**: 22/04/2024
 
 - Revisão dos conceitos trabalhados no curso
@@ -291,18 +287,13 @@ import seaborn as sns
 
 df = pd.DataFrame({
     "Desafio": np.arange(1, 7),
-    "Nota (%)": [15, 20, 15, 15, 15, 20]
+    "Nota (%)": [25, 20, 15, 15, 20, 25]
 })
 
 sns.barplot(x="Desafio", y="Nota (%)", data=df, palette="Blues_d", hue="Nota (%)", dodge=False)
 ```
 
-
-```{python}
-import pandas as pd
-da = pd.read_parquet('https://github.com/c-eoe/tjspCrim/releases/download/parquet/da_camaras.parquet')
-```
-
+Serão computadas as 5 melhores notas. A nota máxima é 100%.
 
 ## Homeworks
 
@@ -350,8 +341,8 @@ A proposta deve conter:
 
 ## Avaliação final
 
-- Prova Intermediária: 15%
-- Prova Final: 35%
+- Prova Intermediária: 20%
+- Prova Final: 30%
 - APS: 20%
 - Desafios: 20%
 - Participação: 10%
