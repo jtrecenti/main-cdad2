@@ -1,0 +1,45 @@
+---
+title: "Frequências, proporções, taxas, ..."
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+## Frequências, proporções, taxas...
+
+{{< qrcode https://forms.office.com/r/XCHScR7yVq qr1 height=500 width=500 >}}
+
+
+## Taxa de reforma
+
+{{< qrcode https://forms.office.com/r/1FQNQhAeu4 qr2 height=500 width=500 >}}
+
+# Resumo
+
+## Definições
+
+::: {.incremental}
+
+- **Frequência** é a quantidade de ocorrências de um evento
+- **Razão** é a divisão entre duas quantidades
+- **Frequência relativa** é a razão entre a quantidade ocorrências de um evento e a quantidade total de eventos
+  - **Porcentagem** é a frequência relativa multiplicada por 100
+- **Taxa** é a razão entre os casos de interesse e os casos em potencial
+  - Pode ser uma proporção ou não
+
+:::
+
+## Quando usar?
+
+::: {.incremental}
+
+- **Frequência**: quando queremos saber a quantidade de ocorrências
+- **Razão**: quando queremos comparar duas quantidades
+
+:::
