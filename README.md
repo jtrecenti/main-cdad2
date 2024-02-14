@@ -24,22 +24,34 @@ identificar oportunidades de negócio.
 
 ### Slides
 
-| arquivo                     | link                                                                       |
-|:----------------------------|:---------------------------------------------------------------------------|
-| slides/01-sobre-curso.html  | [link](https://jtrecenti.github.io/main-cdad2/slides/01-sobre-curso.html)  |
-| slides/02-case-camaras.html | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras.html) |
+| arquivo                          | link                                                                              |
+|:---------------------------------|:----------------------------------------------------------------------------------|
+| slides/01-sobre-curso.html       | [link](https://jtrecenti.github.io/main-cdad2/slides/01-sobre-curso.html)         |
+| slides/02-case-camaras copy.html | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras%20copy.html) |
+| slides/02-case-camaras.html      | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras.html)        |
+| slides/03-proporcoes.html        | [link](https://jtrecenti.github.io/main-cdad2/slides/03-proporcoes.html)          |
 
 ### Apostilas
 
-| arquivo                                               | link                                                                                                            |
-|:------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
-| apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb) |
+| arquivo                                                                           | link                                                                                                                                        |
+|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
+| apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb                             | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb)                             |
+| apostilas/02-organizacao-dados-taxas/02-organizacao-dados-taxas.ipynb             | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/02-organizacao-dados-taxas/02-organizacao-dados-taxas.ipynb)             |
+| apostilas/03-medidas-posicao-variabilidade/03-medidas-posicao-variabilidade.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/03-medidas-posicao-variabilidade/03-medidas-posicao-variabilidade.ipynb) |
+| apostilas/04-visualizacao-seaborn/04-visualizacao-seaborn.ipynb                   | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/04-visualizacao-seaborn/04-visualizacao-seaborn.ipynb)                   |
+| apostilas/05-amostras-populacoes/05-amostras-populacoes.ipynb                     | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/05-amostras-populacoes/05-amostras-populacoes.ipynb)                     |
+| apostilas/06-probabilidade-cnormal/06-probabilidade-cnormal.ipynb                 | [link](https://github.com/jtrecenti/main-cdad2/tree/main/apostilas/06-probabilidade-cnormal/06-probabilidade-cnormal.ipynb)                 |
 
 ### Homeworks
 
 | arquivo                     | link                                                                                  |
 |:----------------------------|:--------------------------------------------------------------------------------------|
 | homeworks/01-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/01-homework.ipynb) |
+| homeworks/02-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/02-homework.ipynb) |
+| homeworks/03-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/03-homework.ipynb) |
+| homeworks/04-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/04-homework.ipynb) |
+| homeworks/05-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/05-homework.ipynb) |
+| homeworks/06-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/homeworks/06-homework.ipynb) |
 
 ## Licença
 
