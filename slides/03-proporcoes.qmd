@@ -30,8 +30,8 @@ lang: pt
 - **Razão** é a divisão entre duas quantidades
 - **Frequência relativa** é a razão entre a quantidade ocorrências de um evento e a quantidade total de eventos
   - **Porcentagem** é a frequência relativa multiplicada por 100
-- **Taxa** é a razão entre os casos de interesse e os casos em potencial
-  - Pode ser uma proporção ou não
+- **Taxa** é a razão entre quantidades que estão em unidades de medidas diferentes
+  - Nem sempre usamos essa definição, varia bastante com a área do conhecimento e o contexto
 
 :::
 
