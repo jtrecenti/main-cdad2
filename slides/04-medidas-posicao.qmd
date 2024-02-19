@@ -1,0 +1,41 @@
+---
+title: "Medidas de posição e variabilidade"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+## Ticket médio... o que você faria?
+
+{{< qrcode https://forms.office.com/r/7MmXt96uSq qr1 height=500 width=500 >}}
+
+# Resumo
+
+## Definições
+
+::: {.incremental}
+
+- A **média** é a soma de todos os valores dividido pela quantidade de valores
+- A **mediana** é o valor que separa a metade maior da metade menor
+- A **moda** é o valor mais frequente
+- Os **quantis** são valores que dividem os dados em partes iguais
+  - Os **quartis** dividem os dados em 4 partes iguais
+
+:::
+
+## Quando usar?
+
+::: {.incremental}
+
+- **Média**: quando queremos saber o valor "típico"
+- **Mediana**: quando queremos saber o valor "central"
+- **Moda**: quando queremos saber o valor mais frequente
+- **Quantis**: quando queremos saber a divisão dos dados
+
+:::
