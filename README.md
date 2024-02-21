@@ -24,12 +24,12 @@ identificar oportunidades de negócio.
 
 ### Slides
 
-| arquivo                          | link                                                                              |
-|:---------------------------------|:----------------------------------------------------------------------------------|
-| slides/01-sobre-curso.html       | [link](https://jtrecenti.github.io/main-cdad2/slides/01-sobre-curso.html)         |
-| slides/02-case-camaras copy.html | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras%20copy.html) |
-| slides/02-case-camaras.html      | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras.html)        |
-| slides/03-proporcoes.html        | [link](https://jtrecenti.github.io/main-cdad2/slides/03-proporcoes.html)          |
+| arquivo                        | link                                                                          |
+|:-------------------------------|:------------------------------------------------------------------------------|
+| slides/01-sobre-curso.html     | [link](https://jtrecenti.github.io/main-cdad2/slides/01-sobre-curso.html)     |
+| slides/02-case-camaras.html    | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras.html)    |
+| slides/03-proporcoes.html      | [link](https://jtrecenti.github.io/main-cdad2/slides/03-proporcoes.html)      |
+| slides/04-medidas-posicao.html | [link](https://jtrecenti.github.io/main-cdad2/slides/04-medidas-posicao.html) |
 
 ### Apostilas
 
