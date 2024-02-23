@@ -1,0 +1,33 @@
+---
+title: "Medidas de posição e variabilidade (2)"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+## Como você gostaria de prosseguir?
+
+{{< qrcode https://forms.office.com/r/9dHQf8tddz qr1 height=500 width=500 >}}
+
+## Oportunidade de trabalho
+
+{{< qrcode https://forms.office.com/r/iBVKCRzVhN qr2 height=500 width=500 >}}
+
+# Resumo
+
+## Definições
+
+::: {.incremental}
+
+- Os **quantis** são valores que dividem os dados em partes iguais
+  - Os **quartis** dividem os dados em 4 partes iguais
+- O **desvio padrão** é uma medida de variabilidade que indica o quanto os valores se afastam da média
+  - O desvio padrão é importante pois complementa a média e dá uma noção da incerteza associada à média
+
+:::
