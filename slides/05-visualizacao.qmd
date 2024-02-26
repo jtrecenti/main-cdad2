@@ -1,0 +1,29 @@
+---
+title: "Visualizações com Seaborn"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+
+## Gráficos bons e ruins
+
+{{< qrcode https://forms.office.com/r/hsP2XfDy34 qr2 height=500 width=500 >}}
+
+# Resumo
+
+## Definições
+
+::: {.incremental}
+
+- Existem gráficos exploratórios e explicativos/descritivos.
+- O tipo de gráfico depende do tipo de variável a ser analisada: existem gráficos para variáveis categóricas e numéricas.
+- Podemos fazer gráficos com diversas variáveis.
+
+:::
