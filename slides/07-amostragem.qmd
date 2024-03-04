@@ -1,0 +1,32 @@
+---
+title: "Amostras e populações"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+
+## Amostras e populações
+
+{{< qrcode https://forms.gle/9ruaVrB1GFsgh1JQ7 qr2 height=500 width=500 >}}
+
+# Resumo
+
+## Definições
+
+::: {.incremental}
+
+1. **Observação**: é um dos elementos da amostra.
+  - No nosso caso, é um dos recursos criminais.
+2. **População**: é o conjunto de todas as observações.
+  - No nosso caso, é o conjunto de todos os recursos criminais com acórdãos publicados entre 2016 e 2023.
+3. **Amostra**: é qualquer subconjunto da população.
+  - No nosso caso, pode ser qualquer subconjunto dos recursos que podemos acessar.
+
+:::
