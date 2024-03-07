@@ -1,0 +1,29 @@
+---
+title: "Amostras e populações - 2"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+
+## Amostras e populações
+
+{{< qrcode https://forms.gle/5uWD8xTbvsdRRLJ67 qr2 height=500 width=500 >}}
+
+# Resumo
+
+## Teorema do Limite Central
+
+::: {.incremental}
+
+1. A média de uma amostra é uma estimativa da média da população
+2. A média das médias de várias amostras é igual à média da população
+3. A distribuição das médias das amostras é normal
+
+:::
