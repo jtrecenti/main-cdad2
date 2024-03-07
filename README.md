@@ -24,12 +24,16 @@ identificar oportunidades de negócio.
 
 ### Slides
 
-| arquivo                        | link                                                                          |
-|:-------------------------------|:------------------------------------------------------------------------------|
-| slides/01-sobre-curso.html     | [link](https://jtrecenti.github.io/main-cdad2/slides/01-sobre-curso.html)     |
-| slides/02-case-camaras.html    | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras.html)    |
-| slides/03-proporcoes.html      | [link](https://jtrecenti.github.io/main-cdad2/slides/03-proporcoes.html)      |
-| slides/04-medidas-posicao.html | [link](https://jtrecenti.github.io/main-cdad2/slides/04-medidas-posicao.html) |
+| arquivo                              | link                                                                                |
+|:-------------------------------------|:------------------------------------------------------------------------------------|
+| slides/01-sobre-curso.html           | [link](https://jtrecenti.github.io/main-cdad2/slides/01-sobre-curso.html)           |
+| slides/02-case-camaras.html          | [link](https://jtrecenti.github.io/main-cdad2/slides/02-case-camaras.html)          |
+| slides/03-proporcoes.html            | [link](https://jtrecenti.github.io/main-cdad2/slides/03-proporcoes.html)            |
+| slides/04-medidas-posicao.html       | [link](https://jtrecenti.github.io/main-cdad2/slides/04-medidas-posicao.html)       |
+| slides/04-medidas-variabilidade.html | [link](https://jtrecenti.github.io/main-cdad2/slides/04-medidas-variabilidade.html) |
+| slides/05-visualizacao.html          | [link](https://jtrecenti.github.io/main-cdad2/slides/05-visualizacao.html)          |
+| slides/06-visualizacao-2.html        | [link](https://jtrecenti.github.io/main-cdad2/slides/06-visualizacao-2.html)        |
+| slides/07-amostragem.html            | [link](https://jtrecenti.github.io/main-cdad2/slides/07-amostragem.html)            |
 
 ### Apostilas
 
