@@ -1,0 +1,18 @@
+---
+title: "Revisão para prova"
+subtitle: "Ciência de Dados Aplicada ao Direito 2"
+format:
+  insper-revealjs:
+    footer: |
+      [Ciência de Dados Aplicada ao Direito 2](https://jtrecenti.github.io/202461-cdad2/)
+    embed-resources: true
+date-format: long
+lang: pt
+
+---
+
+
+## Revisão para prova
+
+{{< qrcode https://forms.gle/km131xvHkLwrmqMF7 qr2 height=500 width=500 >}}
+
