@@ -11,54 +11,6 @@ lang: pt
 
 ---
 
-## Feedback prova
-
-Preenchimento opcional
-
-{{< qrcode https://forms.gle/rRxCGYtRee1K5C1h7 qr1 height=500 width=500 >}}
-
-## Questão 11
-
-```{python}
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-df = pd.DataFrame({
-  'alternativa': ['A', 'B', 'C', 'D', 'E'],
-  'quantidade': [8, 28, 3, 0, 1]
-})
-
-sns.barplot(df, x = 'alternativa', y = 'quantidade')
-```
-
-## Questão 11 (sem a correta)
-
-```{python}
-sns.barplot(df[df.alternativa != 'B'], x = 'alternativa', y = 'quantidade')
-```
-
-## Questão 11 (enunciado)
-
-Nosso objetivo é calcular (...)
-
-A - `.agg(count = ('decisao', 'count'))`
-
-B - `.query('polo_mp == "Passivo"')`
-
-C - `.groupby('decisao')`
-
-D - `.reset_index()`
-
-E - `.sort_values('prop', ascending=False)`
-
-F - `.assign(prop = lambda x: x['count'] / x['count'].sum() * 100)`
-
-Coloque essas operações em ordem (...)
-
-a. A,B,C,D,E,F
-
 ## Definições
 
 Queremos estudar o tempo dos processos até a sentença no TJSP em 2023.
