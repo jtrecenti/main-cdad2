@@ -213,13 +213,13 @@ De toda forma, os conceitos trabalhados aqui provavelmente aparecerão em algum 
 
 - Correlação. Levin & Fox 11a ed pp. 300-319. Regressão. Levin & Fox 11a ed pp. 325-337.
 
-**Desafio 5**.
-
 ### 15/04
 
 #### **Aula**: 15/04/2024
 
 - Regressão. Levin & Fox 11a ed pp. 325-337.
+
+**Desafio 5**.
 
 #### **Aula**: 19/04/2024
 
